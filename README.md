@@ -2,10 +2,10 @@
 
 ## 1. Node.js 패키지 초기화
 
-path : onebite-typescript/section1
+path : onebite-typescript/section1 (예시)
 
 ```
- npm init
+npm init
 ```
 
 <br>
@@ -49,7 +49,7 @@ sudo npm i -g typescript
 정상적으로 확인하기 위한 버전 확인
 
 ```
-tss -v
+tsc -v
 ```
 
 <br>
